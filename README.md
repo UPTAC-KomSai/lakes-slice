@@ -19,3 +19,4 @@ Endpoints for viewing observations either by dataset, by project, etc.
 Endpoints for viewing datasets either by project, specific dataset, etc.
 
  * - [x] [Show all datasets for the project](datasets/show-datasets-by-project.md) : `GET /project/{projectId}/datasets`
+ * - [x] [Show each dataset by id](datasets/show-dataset-by-id.md) : `GET /project/{projectId}/datasets/{datasetId}`
