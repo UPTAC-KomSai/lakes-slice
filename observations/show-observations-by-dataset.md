@@ -55,7 +55,8 @@
             "Light (lux)":"69089.000000",
             "Temperature (C)":"25.300000",
             "TDS":null
-        }
+        },
+        ...
     ]
   },
   "status": "success"

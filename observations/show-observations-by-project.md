@@ -66,7 +66,8 @@
         "sample_id":3,
         "created_at":"2021-09-12 10:33:57",
         "updated_at":"2021-09-12 10:33:57"
-      }
+      },
+      ...
     ]
   },
   "status": "success"
