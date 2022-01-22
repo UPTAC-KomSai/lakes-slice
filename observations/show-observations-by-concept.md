@@ -37,7 +37,8 @@
             "DO (%)":"56.000000",
             "Light (lux)":"74390.000000",
             "Temperature (C)":"25.300000",
-            "TDS":null
+            "TDS":null,
+            "Date Collected":"2021-03-08 00:00:00"
         },
         {
             "pH":"7.180000",
@@ -46,7 +47,8 @@
             "DO (%)":"68.600000",
             "Light (lux)":"75526.000000",
             "Temperature (C)":"25.300000",
-            "TDS":null
+            "TDS":null,
+            "Date Collected":"2021-03-08 00:00:00"
         },
         {
             "pH":"7.170000",
@@ -55,7 +57,8 @@
             "DO (%)":"46.200000",
             "Light (lux)":"69089.000000",
             "Temperature (C)":"25.300000",
-            "TDS":null
+            "TDS":null,
+            "Date Collected":"2021-03-08 00:00:00"
         },
         ...
     ]
